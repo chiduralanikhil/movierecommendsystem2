@@ -73,3 +73,7 @@ if st.button('Show Recommendation'):
     with col5:
         st.text(recommended_movie_names[4])
         st.image(recommended_movie_posters[4])
+st.text('\n')
+st.text('\n')
+st.text('\n')
+st.text('--------------------------MADE BY CHIDURALA NIKHIL-------------------------')
